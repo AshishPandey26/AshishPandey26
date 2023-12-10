@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **App Development**
   
-- 🌱 I’m currently learning **Flutter, Unity Engine**
+- 🌱 Currently learning **Flutter, Unity Engine**
   
-- 🤝 I’m looking for help with **Unity Development**
+- 🤝 Looking for help with **Unity Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishpandey26](https://github.com/ashishpandey26)
   
