@@ -4,7 +4,9 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/ashishpandey26/ashishpandey26/main/banner.gif"> </div>
 
 
+
 <h3 align="center">A passionate flutter developer and a Space & Astronomy Enthusiast from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpandey26&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpandey26" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/0ashishpandey0" target="blank"><img src="https://img.shields.io/twitter/follow/0ashishpandey0?logo=twitter&style=for-the-badge" alt="0ashishpandey0" /></a> </p>
