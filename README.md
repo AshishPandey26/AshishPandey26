@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **App Development**
   
-- 🌱 Currently learning **Flutter, Unity Engine**
+- 🌱 Currently learning **Flutter, Unity Engine,CSS & JS**
   
 - 🤝 Looking for help with **Unity Development**
 
