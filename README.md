@@ -18,7 +18,7 @@
 
 - 👨‍💻 I have worked on **Unity Engine, CSS, JS, Unreal Engine, Blender 3D & many more...**
   
-- 🤝 Looking for with **Project Development and Interships at Stratups**
+- 🤝 Looking for **Project Development and Interships at Stratups**
 
 - 🔆 I have done my Summer Training on **Data Science with Artificial Intelligence and Machine Learning**
   
