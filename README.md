@@ -16,7 +16,7 @@
   
 - 🌱 Currently building projects using **Flutter and Firebase**
 
-- 👨‍💻 I have worked on **Unity Engine, CSS, JS, Unreal Engine, Blender 3D & many more...**
+- 👨‍💻 I have worked on **AWS cloud microservices, DevOps Trainee at LnT edutech, Unity Engine, CSS, JS, Unreal Engine, Blender 3D & many more...**
   
 - 🤝 Looking for **Project Development and Interships at Stratups**
 
