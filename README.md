@@ -1,23 +1,27 @@
 
 
-<h1 align="center">Helloo Visitor 👋, I'm Ashish Pandey</h1>
+<h1 align="center">Hello Visitor 👋, I'm Ashish Pandey</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ashishpandey26/ashishpandey26/main/banner1.gif"> </div>
 
 
 
-<h3 align="center">A passionate flutter developer and a Space & Astronomy Enthusiast from India</h3>
+<h3 align="center">A passionate A.I. and M.L. developer along with Flutter App Developer and a Space & Astronomy Enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpandey26&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpandey26" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/0ashishpandey0" target="blank"><img src="https://img.shields.io/twitter/follow/0ashishpandey0?logo=twitter&style=for-the-badge" alt="0ashishpandey0" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ashishpandey26/ashishpandey26/main/coder.gif">
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working as an **App Developer**
   
-- 🌱 Currently learning **Flutter, Unity Engine,CSS & JS**
-  
-- 🤝 Looking for help with **Unity Development**
+- 🌱 Currently building projects using **Flutter and Firebase**
 
+- 👨‍💻 I have worked on **Unity Engine, CSS, JS, Unreal Engine, Blender 3D & many more...**
+  
+- 🤝 Looking for with **Project Development and Interships at Stratups**
+
+- 🔆 I have done my Summer Training on **Data Science with Artificial Intelligence and Machine Learning**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/ashishpandey26](https://github.com/ashishpandey26)
   
 - 📫 How to reach me **pandaya10@gmail.com**
