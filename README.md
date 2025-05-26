@@ -18,9 +18,10 @@
 
 - 👨‍💻 I have worked on **AWS cloud microservices, DevOps Trainee at LnT edutech, Unity Engine, CSS, JS, Unreal Engine, Blender 3D & many more...**
   
-- 🤝 Looking for **Project Development and Interships at Startups**
+- 🤝 Looking for **App Dev Roles and Interships at Startups**
 
-- 🔆 I have done my Summer Training on **Data Science with Artificial Intelligence and Machine Learning**
+- 🔆 I have done my Summer Internship cum Training on **Data Science with Artificial Intelligence and Machine Learning** in 2024
+- 🔆 Doing Internship at DreamTeam Technologies as a **Machine Learning Engineer**
   
 - 👨‍💻 All of my projects are available at [https://github.com/ashishpandey26](https://github.com/ashishpandey26)
   
