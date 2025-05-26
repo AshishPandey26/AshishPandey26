@@ -21,11 +21,11 @@
 - 🤝 Looking for **App Dev Roles and Interships at Startups**
 
 - 🔆 I have done my Summer Internship cum Training on **Data Science with Artificial Intelligence and Machine Learning** in 2024
-- 🔆 Doing Internship at DreamTeam Technologies as a **Machine Learning Engineer**
+- 🔆 Doing Internship at DreamTeam Technologies as a **Machine Learning Engineer** (2025)
   
 - 👨‍💻 All of my projects are available at [https://github.com/ashishpandey26](https://github.com/ashishpandey26)
   
-- 📫 How to reach me **pandaya10@gmail.com**
+- 📫 Reach me at **pandaya10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
