@@ -18,7 +18,8 @@
 
 - 👨‍💻 I have worked on **AWS cloud microservices, DevOps Trainee at LnT edutech, Unity Engine, CSS, JS, Unreal Engine, Blender 3D & many more...**
   
-- 🤝 Looking for **App Dev Roles and Interships at Startups**
+- 🤝 Looking for **Job in App Developer role, Machine Learning Engineer**
+      **Eager to build Software, Ready to Adapt & Up for Work**
 
 - 🔆 I have done my Summer Internship cum Training on **Data Science with Artificial Intelligence and Machine Learning** in 2024
 - 🔆 Doing Internship at DreamTeam Technologies as a **Machine Learning Engineer** (2025)
