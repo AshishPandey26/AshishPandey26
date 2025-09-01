@@ -31,7 +31,7 @@
 - 🍵You can also visit my Portfolio website at https://ashishpandey-portfolio.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0ashishpandey0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0ashishpandey0" height="30" width="40" /></a>
+<a href="https://x.com/ashishhuun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0ashishpandey0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-pandey-astronom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishpandey_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishpandey_26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pandaya10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandaya10" height="30" width="40" /></a>
