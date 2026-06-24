@@ -54,8 +54,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpandey26&theme=tokyonight" alt="ashishpandey26" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshishPandey26&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AshishPandey26&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4) -->
+
 
 
 
