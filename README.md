@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/0ashishpandey0" target="blank"><img src="https://img.shields.io/twitter/follow/0ashishpandey0?logo=twitter&style=for-the-badge" alt="0ashishpandey0" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/ashishpandey26/ashishpandey26/main/coder.gif">
 
-- 🔭 I’m currently working as an **App Developer**
+- 🔭 I’m currently working as an **AIML Engineer**
   
 - 🌱 Currently building projects using **Flutter and Firebase**
 
@@ -21,14 +21,15 @@
 - 🤝 Looking for **Job in App Developer role, Machine Learning Engineer**
      - **Eager to build Software, Ready to Adapt & Up for Work**
 
-- 🔆 I have done my Summer Internship cum Training on **Data Science with Artificial Intelligence and Machine Learning** in 2024
+- 🔆 I have done my Summer Internship cum Training on **Data Science with AIML ** in 2024
 - 🔆 Doing Internship at DreamTeam Technologies as a **Machine Learning Engineer** (2025)
+- 🔆 Doing Internship at Akiyam Solutions as a **AIML Engineer** (2026)
   
 - 👨‍💻 All of my projects are available at [https://github.com/ashishpandey26](https://github.com/ashishpandey26)
   
-- 📫 Reach me at **pandaya10@gmail.com**
+- 📫 Reach me at **ashishpandeyhun@gmail.com**
 
-- 🍵You can also visit my Portfolio website at https://ashishpandey-portfolio.vercel.app/
+- 🍵You can also visit my Portfolio website at [https://ashishpandey-portfolio.vercel.app/](https://ashish-pandey-portfolio-sigma.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/ashishhuun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0ashishpandey0" height="30" width="40" /></a>
