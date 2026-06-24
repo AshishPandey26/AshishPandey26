@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">A passionate A.I. and M.L. developer along with Flutter App Developer and a Space & Astronomy Enthusiast from India, I Use ArchBTW</h3>
+<h3 align="center">Ashish Pandey | AI/ML Engineer • GenAI & RAG Builder • Flutter Developer • Healthcare AI | B.Tech AI/ML '26, I Use ArchBTW</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpandey26&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpandey26" /> </p>
 
 
