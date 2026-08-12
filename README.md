@@ -53,7 +53,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishpandey26&show_icons=true&locale=en&theme=tokyonight" alt="ashishpandey26" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpandey26&theme=tokyonight" alt="ashishpandey26" /></p> -->
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ashishpandey26&theme=tokyonigh)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ashishpandey26&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshishPandey26&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4) -->
 
