@@ -53,7 +53,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishpandey26&show_icons=true&locale=en&theme=tokyonight" alt="ashishpandey26" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpandey26&theme=tokyonight" alt="ashishpandey26" /></p> -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ashishpandey26&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AshishPandey26&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshishPandey26&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4) -->
